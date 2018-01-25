@@ -4,6 +4,10 @@ import java.util.LinkedList;
  * Created by UDAY on 12/12/2017.
  *
  * Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
+ *
+ * [[0,2,5], [4,6,7], [2,3,4]]
+
+ result= [0, 2,2,3,4,4,5,6,7]
  */
 public class MergingMultipleSortedList {
     public static void main(String[] args) {
